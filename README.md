@@ -1,13 +1,6 @@
 https://youtu.be/aZ3jOprW2qE?si=kmTG_ZDCj569k0mo
 (my video for the chessly)
-
-
-
-
-Here's a simple text version of your README:
-
-ChessLy
-ChessLy is a basic web-based chess game built using JavaScript, HTML, and CSS. The app allows players to make standard chess moves and supports additional features such as castling, en passant, check, checkmate, draw, promotion, undo, and a move list to track all moves.
+Chessly is a basic web-based chess game built using JavaScript, HTML, and CSS. The app allows players to make standard chess moves and supports additional features such as castling, en passant, check, checkmate, draw, promotion, undo, and a move list to track all moves.
 
 Features
 Basic Moves: Players can make standard chess moves for all pieces (pawns, rooks, knights, bishops, queens, and kings).
